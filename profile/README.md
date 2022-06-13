@@ -27,11 +27,11 @@ This is our features from StuDu App
 [Linkedin - Aji]: https://www.linkedin.com/in/ansengarie/
 [Linkedin - Rofiq]: https://www.linkedin.com/in/raden-rofiq-yudha-setyawan-709bb3192/
 [Linkedin - Aldy]: https://www.linkedin.com/in/cloudsecledy/
-[Linkedin - Alfian]: https://www.linkedin.com/in/sekar-larasati/
+[Linkedin - Alfian]: https://www.linkedin.com/in/muhammad-alfian-nurul-yaqien-b7a862148/
 
 <!-- Linked In -->
 [Github - Mila]: https://github.com/nevindra
 [Github - Puspa]: https://github.com/sahirrrr
 [Github - Aji]: https://github.com/ansengarie
 [Github - Rofiq]: https://github.com/rofiqyudha
-[Github - Alfian]: https://github.com/sekarlm
+[Github - Alfian]: https://github.com/alfianyaqien
