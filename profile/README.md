@@ -11,7 +11,7 @@
 |  Muhammad Alfian Nurul Yaqien | C7299F2588 |  Cloud Computing   |  Project Manager, Back-end, DevOps, UI/UX  |      [LinkedIn - Alfian] or [Github - Alfian]    |
 
 # About Studu
-StuDu (Stunting Education application) is Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+StuDu (Stunting Education application) is an Android-based mobile application to help deal with stunting problems in Indonesia by detecting and categorizing the condition of toddlers and providing education to the public about the dangers and prevention of stunting.
 
 # Features
 This is our features from StuDu App
