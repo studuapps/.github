@@ -14,11 +14,11 @@
 StuDu (Stunting Education application) is Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 # Features
-Thi is our features from StuDu App
+This is our features from StuDu App
 
 ```
 1. Stunting Detection
-2. Nutrition
+2. Food Baby Recognition
 ```
 
 <!-- Linked In -->
