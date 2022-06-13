@@ -29,7 +29,7 @@ This is our features from StuDu App
 [Linkedin - Aldy]: https://www.linkedin.com/in/cloudsecledy/
 [Linkedin - Alfian]: https://www.linkedin.com/in/muhammad-alfian-nurul-yaqien-b7a862148/
 
-<!-- Linked In -->
+<!-- Github -->
 [Github - Mila]: https://github.com/nevindra
 [Github - Puspa]: https://github.com/sahirrrr
 [Github - Aji]: https://github.com/ansengarie
